@@ -9,7 +9,7 @@ public class Main {
 		tom.comerRaton(raton1);
 		tom.comerRaton(raton2);
 		tom.comerRaton(raton3);
-	    System.out.println(tom.ratones);	
+	    tom.comerRaton(raton1);	
 	    
 	    }
 }	
